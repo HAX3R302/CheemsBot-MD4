@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['923253444558'] //ur owner number
+global.ownername = "🦄HAX3R" //ur owner name
+global.ytname = "INSTA: ITXSALAIH" //ur yt chanel name
+global.socialm = "GitHub: HAX3R302" //ur github or insta name
+global.location = "PAKISTAN" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.owner = ['923253444558']
+global.ownertag = '923253444558' //ur tag number
+global.botname = 'HAX3R-BOT' //ur bot name
+global.linkz = "https://www.youtube.com/channel/UC8UIugWVU9cBpj_h7pn9RNg" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/channel/UC8UIugWVU9cBpj_h7pn9RNg" //ur website to be displayed
+global.botscript = 'https://github.com/HAX3R302' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.author = "HAX3R" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
